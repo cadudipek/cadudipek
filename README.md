@@ -1,4 +1,4 @@
-# Olá, eu sou o **Cadu**! 👨‍💻
+# Olá, eu sou o **Cadu**! 👨🏻‍💻
 
 Sou um **desenvolvedor web** e futuro **engenheiro de dados**, em constante evolução. Tenho experiência com **HTML** e **CSS**, e atualmente estou aprofundando meus conhecimentos em **Python** e **engenharia de dados** para expandir minhas possibilidades no universo do desenvolvimento e da análise de dados. 🚀
 
