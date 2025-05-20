@@ -44,7 +44,7 @@ Tenho uma paixão por **design web** e **programação**, e estou sempre buscand
 
 ## 💬 **Contato e Conexões**
 
-- **LinkedIn**: [Cadu Dipek](https://www.linkedin.com/in/cadu-pequeno/)
+- **LinkedIn**: [Carlos Eduardo](https://www.linkedin.com/in/cadu-pequeno/)
 
 ---
 
@@ -66,4 +66,3 @@ Tenho uma paixão por **design web** e **programação**, e estou sempre buscand
 - **"Desenvolver é mais sobre solução de problemas do que apenas escrever código."**
 - **"A prática constante e a paciência são essenciais para aprender novas tecnologias."**
 
-🔗 Explore meu repositório, aprenda comigo e, se desejar, podemos colaborar! 💻
