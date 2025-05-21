@@ -58,11 +58,3 @@ Tenho uma paixão por **design web** e **programação**, e estou sempre buscand
 ## 🔥 **Meu Streak de Contribuições**
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cadudipek&theme=highcontrast)
-
----
-
-## 📈 **Vamos Crescer Juntos!**
-
-- **"Desenvolver é mais sobre solução de problemas do que apenas escrever código."**
-- **"A prática constante e a paciência são essenciais para aprender novas tecnologias."**
-
